@@ -1,0 +1,6 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=2000000,RESOLUTION=1462x1078
+https://raw.githubusercontent.com/x6-debug/f3576843fa3cfc7a/refs/heads/master/1078p/github_playlist_1078p.m3u8?_cb=1770328161
+#EXT-X-STREAM-INF:BANDWIDTH=1500000,RESOLUTION=1280x720
+https://raw.githubusercontent.com/x6-debug/f3576843fa3cfc7a/refs/heads/master/720p/github_playlist_720p.m3u8?_cb=1770328161
